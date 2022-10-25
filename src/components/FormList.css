@@ -1,0 +1,31 @@
+
+.container{
+    width: 200px;
+    height: 330px;
+    border: 1px solid;
+    margin: 0 auto;
+    /* margin-top: 15%; */
+    margin: 10px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+}
+.text{
+    display: flex;
+    margin-left: 10px;
+}
+.id{
+    border: 1px solid;
+    width: 100px;
+    height: 50px;
+    margin-right: 10px;
+    align-items: center;
+}
+
+img{
+    width: 150px;
+    height: 200px; 
+}
